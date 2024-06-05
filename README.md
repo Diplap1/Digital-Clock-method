@@ -2,6 +2,8 @@
 Digital clock method in html by diplap
 
 
+
+
 #code is here 
 <!DOCTYPE html>
 <html>
@@ -28,7 +30,6 @@ Digital clock method in html by diplap
 		if(hour >=12){
 			if (hour >12) hour -=12;
 			am_pm="PM";
-
 		}
 		else if (hour ==0){
 			hr =12;
